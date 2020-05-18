@@ -1,6 +1,6 @@
 a=200
 b=300
 c=500
-
-sum=a+b+c
+d=2000
+sum=a+b+c=d
 print(sum)
